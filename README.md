@@ -4,4 +4,4 @@
 * ` Team WhyHash `
 * ` Score - 2068804 `
 * ` Rank - 1814 `
-* `Amitesh , Amartya ,Veeru , Vinay ` 
+* ` Team - Amitesh , Amartya ,Veeru , Vinay ` 
