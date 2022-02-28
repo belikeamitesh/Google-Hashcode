@@ -1,5 +1,3 @@
-# Google-Hashcode
-
 ## Hashcode 2022
 * ` Team WhyHash `
 * ` Score - 2068804 `
